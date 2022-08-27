@@ -1,0 +1,7 @@
+Actinic
+Basal_cell
+Dermatofibroma
+Melanoma
+Nevus
+Seborrheic
+Vascular
